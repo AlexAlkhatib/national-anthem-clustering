@@ -1,4 +1,4 @@
-# 🇺🇳 Anthem Clustering — NLP, TF-IDF & Unsupervised Learning
+# Anthem Clustering — NLP, TF-IDF & Unsupervised Learning
 
 Analyse, vectorisation et clustering des hymnes nationaux pour regrouper les pays selon la similarité de leurs textes.
 
