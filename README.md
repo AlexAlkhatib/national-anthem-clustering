@@ -167,5 +167,3 @@ Projet NLP — Clustering des Hymnes Nationaux
 ## 📄 Licence
 MIT License
 Copyright (c) 2025 Alex Alkhatib
-
-Souhaites-tu que je génère cela aussi ?
